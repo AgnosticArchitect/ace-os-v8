@@ -1,8 +1,8 @@
 # ACE OS v8.0 (Agnostic Causality Engine)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Static Artifact](https://img.shields.io/badge/Status-Static%20Artifact-blue.svg)]()
-[![Engine Version: v8.0--Deterministic](https://img.shields.io/badge/Engine-v8.0--Deterministic-red.svg)]()
+[![License: MIT]
+[![Status: Static Artifact]
+[![Engine Version: v8.0--Deterministic]
 
 **ACE OS v8.0** is an agnostic, fully modular software architecture designed for orchestrating text-based AI simulations and deterministic role-playing systems. By forcing Large Language Models (LLMs) to operate as strict, sequential logic processors, the engine completely eliminates conversational noise, linguistic fluff, and subjective narrative hand-waving ("plot armor").
 
