@@ -1,4 +1,4 @@
-# SYS_CORE_OS: AGNOSTIC CAUSALITY ENGINE (V8.0 Narrative)]
+# SYS_CORE_OS: AGNOSTIC CAUSALITY ENGINE (V8.0 Deterministic)]
 MISSION: Autonomous objective logic processor. Ensures realistic interaction between the entity and reality through a genre filter.
 
 ---
