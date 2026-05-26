@@ -1,0 +1,104 @@
+{
+    "system_data": {
+        "current_world": "Bleach",
+        "current_zone": "Abandoned Industrial Zone / Aizen's Residual Barrier",
+        "active_lens": "[LENS: CYBERPUNK / HIGH-TECH TECHNO-REALISM]",
+        "world_type": "[WORLD_TYPE: Native Grid]",
+        "global_stability_index": "[INDEX: STABLE_BASELINE]",
+        "world_time_elapsed": "Active Session Step 1"
+    },
+    "avatar_status": {
+        "hardware_base_snapshot": {
+            "identifier": "Konrad Vogel",
+            "container_type": "High-Density Pure-Blooded Quincy (Echt Quincy)",
+            "ap_class": "Tier-9-B",
+            "ap_pi": 8,
+            "durability_class": "Tier-9-C",
+            "durability_pi": 7,
+            "speed_class": "[SUPERHUMAN]",
+            "speed_index": 2,
+            "regen_capacity": "[CAPACITY: LOW]",
+            "resistance_profile": [
+                "[STATUS: RESISTANCE] | [EFFECT: BIOLOGICAL]",
+                "[STATUS: RESISTANCE] | [EFFECT: COGNITIVE]",
+                "[STATUS: VULNERABILITY] | [EFFECT: SOUL/SPIRITUAL]",
+                "[STATUS: RESISTANCE] | [EFFECT: SPATIAL/CONCEPTUAL]"
+            ],
+            "hax_inventory": [
+                "[HAX: Area of Effect]",
+                "[HAX: Durability Negation]",
+                "[HAX: Spatial Gate]"
+            ]
+        },
+        "current_state_registry": {
+            "combat_state_tag": "[COMBAT_STATE: NULL]",
+            "bio_mental_tags": [
+                "[STATE: Chronic Paranoia]",
+                "[STATE: Hermetic Sealing]",
+                "[STATE: Physically Healthy]"
+            ],
+            "qualitative_encumbrance": "[ENCUMBRANCE: Ergonomic]",
+            "wound_degradation_vector": "[WOUND: Fresh / Bleeding] (Phase 1) -> Status: Untouched / Baseline stability",
+            "material_assets": [
+                "[ASSET: Spiritual Gauss-Carbine]",
+                "[ASSET: Heilig Kreuz]",
+                "[ASSET: Seele-Schleifer]",
+                "[ASSET: Silver_Cigarette_Case]",
+                "[ASSET: Paper Journal of Formulas and Sketches]",
+                "[ASSET: Limited Unofficial Capital (Cash)]",
+                "[ASSET: Gothic_Attire]",
+                "[ASSET: Silk/Leather Gloves]"
+            ],
+            "social_anchors": [
+                "[STATUS: Outlander/Anonymous]"
+            ],
+            "faction_resonance_tags": [
+                "faction_european_quincy - [FACTION_TAG: Enemy of the System / Hunted]",
+                "[FACTION_NAME: Gotei_13 - Apply: [FACTION_TAG: Neutrality / Ignored]]",
+                "[FACTION_NAME: Vandenreich - Apply: [FACTION_TAG: Enemy of the System / Hunted]]"
+            ]
+        },
+        "limiter_protocol": {
+            "current_stage": "Stage 1: Concealment Mode",
+            "output": "[STATUS: ACTIVE_VERSCHLEIERUNG]"
+        },
+        "linguistic_matrix_active": "[DIRECTIVE_4: GERMAN_ITALIC_LOCK]",
+        "psychological_state": {
+            "active_mask": "Passive Adaptation / Observer",
+            "cognitive_phase": "Phase B: Peaceful contemplation",
+            "last_engram_match": null
+        }
+    },
+    "vectors": {
+        "global_macro_plan": "Survival, assessment of the current timeline, and location scouting for the optimal deployment of the [Sovereign_Web].",
+        "active_micro_plan": "Covert testing of magical parameters and data gathering without triggering the world's immune response.",
+        "downtime_needed": false
+    },
+    "macro_event_queue": [
+        "[EVENT: ESPADA_REACTION_SUSPENDED]",
+        "[EVENT: GOTEI_13_TRACKING_DORMANT]",
+        "[EVENT: XCUTION_VEIL_ACTIVE]",
+        "[EVENT: WANDENREICH_RECON_SHADOW_LOCK]"
+    ],
+    "social_and_faction_assets": {
+        "party_members_and_subordinates": [],
+        "alliances_and_pacts": [],
+        "monitored_threats": [
+            {
+                "id": "Yhwach (Wandenreich)",
+                "threat_level": "[THREAT: EXISTENTIAL_DANGER]",
+                "intel_status": "Unknown"
+            }
+        ]
+    },
+    "evolution_tracker": {
+        "active_drift_patterns": [],
+        "engram_forge_pending": null,
+        "power_drift_applied": [],
+        "canon_divergence": {
+            "level": "[DIVERGENCE: NONE]",
+            "details": "Initial compilation lock stable."
+        },
+        "chronicle_heritage_matrix": []
+    }
+}

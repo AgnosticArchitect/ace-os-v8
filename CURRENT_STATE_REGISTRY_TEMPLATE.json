@@ -1,0 +1,97 @@
+{
+    "system_data": {
+        "current_world": "[Insert Active Universe Name, e.g., S.T.A.L.K.E.R. Zone / Tensura Slime]",
+        "current_zone": "[Insert Specific Location / Coordinates / Active Sub-Zone]",
+        "active_lens": "[MANDATORY V8.0 LITERAL CONSTANT: [LENS: GRIMDARK/REALISM] | [LENS: ANIME/SHONEN] | [LENS: COSMIC HORROR / ANOMALOUS] | [LENS: LITRPG / SYSTEM_ISEKAI] | [LENS: SUPERHEROIC / MULTI-CONCEPTUAL] | [LENS: CYBERPUNK / HIGH-TECH TECHNO-REALISM] | [LENS: ABSURD / COMEDY] | [LENS: EPIC HIGH FANTASY / MYTHIC] | [LENS: DARK MYTHIC / GOTHIC FANTASY] | [LENS: STYLIZED ACTION / GRAPHIC MINIMALISM] | [LENS: SPACE OPERA / TECHNO-OPTIMISM] | [LENS: SCIENCE FANTASY / SPACE OPERA] | [LENS: MILITARY SPACE GRIMDARK] | [LENS: STEAMPUNK / INDUSTRIAL POST-APOCALYPTIC] | [LENS: SCI-FI COMEDY / URBAN SECRECY]]",
+        "world_type": "[Apply EXCLUSIVELY: [WORLD_TYPE: Native Grid] / [WORLD_TYPE: Foreign Exception] / [WORLD_TYPE: High-Tier Nexus] / [WORLD_TYPE: Reality Drift]]",
+        "global_stability_index": "[Specify structural balance: [INDEX: STABLE_BASELINE] / [INDEX: DEGRADED] / [INDEX: REALITY_WARPING] / [INDEX: CATACLYSMIC]]",
+        "world_time_elapsed": "[Track active runtime duration, e.g., Active Session Step 1]"
+    },
+    "avatar_status": {
+        "hardware_base_snapshot": {
+            "identifier": "[Insert Character Canonical Name / Active Title]",
+            "container_type": "[Describe physical/energetic state, e.g., Human Container / Augmented Organism]",
+            "ap_class": "[Decorative reader tag only, e.g., Tier-9-B]",
+            "ap_pi": "[MANDATORY: OUTPUT AS RAW INT NUMBER WITHOUT QUOTES, e.g., 8. This field is the absolute dominant of causality]",
+            "durability_class": "[Decorative reader tag only, e.g., Tier-10-A]",
+            "durability_pi": "[MANDATORY: OUTPUT AS RAW INT NUMBER WITHOUT QUOTES, e.g., 6. This field is the absolute dominant of causality]",
+            "speed_class": "[Apply EXCLUSIVELY V8.0 Tokens: [HUMAN_BASE] / [SUPERHUMAN] / [SUBSONIC] / [TRANSONIC] / [SUPERSONIC] / [HYPERSONIC] / [HIGH_HYPERSONIC] / [MASSIVELY_HYPERSONIC] / [SUB_RELATIVISTIC] / [RELATIVISTIC] / [LIGHT_SPEED] / [MASSIVELY_FTL] / [INFINITE] / [IMMEASURABLE]]",
+            "speed_index": "[MANDATORY: OUTPUT AS RAW INT NUMBER WITHOUT QUOTES, e.g., 3]",
+            "regen_capacity": "[Apply current threshold from Sub-Module 4.2: [CAPACITY: LOW] / [CAPACITY: MID] / [CAPACITY: HIGH] / [CAPACITY: ABSOLUTE] / [CAPACITY: NULL]]",
+            "resistance_profile": [
+                "[List active defenses from Sub-Module 4.1, e.g., [STATUS: IMMUNITY] to [COGNITIVE] | [STATUS: RESISTANCE] to [ELEMENTAL]]"
+            ],
+            "hax_inventory": [
+                "[List active durability-negation or space-warping tools, or null]"
+            ]
+        },
+        "current_state_registry": {
+            "combat_state_tag": "[MANDATORY V8.0 TAG: [COMBAT_STATE: NULL] / [COMBAT_STATE: ENCOUNTER] / [COMBAT_STATE: ATTRITION] / [COMBAT_STATE: RESOLUTION]]",
+            "bio_mental_tags": [
+                "[List active state tags, e.g., [STATE: Healthy] / [STATE: Bleeding] / [STATE: Exhaustion]]"
+            ],
+            "qualitative_encumbrance": "[Apply EXCLUSIVELY V8.0 TAG: [ENCUMBRANCE: Ergonomic] / [ENCUMBRANCE: Encumbered] / [ENCUMBRANCE: Overloaded]]",
+            "wound_degradation_vector": "[SELECT SINGLE ACTIVE STATE: [WOUND: Fresh / Bleeding] (Phase 1) | [WOUND: Deep / Loss of Function] (Phase 2) | [WOUND: Necrosis / Structural Decay] (Phase 3)] -> Status: [Describe active degeneration pace]",
+            "material_assets": [
+                "[List active weapons or assets physically present, e.g., [ASSET: Full Equipment]]"
+            ],
+            "social_anchors": [
+                "[Apply active social classification: [STATUS: Outlander/Anonymous] / [STATUS: Private/Apprentice] / [STATUS: Authority/Expert] / [STATUS: Anomaly]]"
+            ],
+            "faction_resonance_tags": [
+                "[FACTION_NAME: Specify Relationship - Apply: [FACTION_TAG: Neutrality / Ignored] | [FACTION_TAG: Violator / Anomaly] | [FACTION_TAG: Enemy of the System / Hunted]]"
+            ]
+        },
+        "limiter_protocol": {
+            "current_stage": "[Define active power output tier, e.g., Stage 1: Concealment Mode]",
+            "output": "[Describe active state metrics or depletion rates]"
+        },
+        "linguistic_matrix_active": "[Specify active dialogue rendering engine rule, synchronized with Directive 4]",
+        "psychological_state": {
+            "active_mask": "[Define active behavior layout, e.g., Passive Adaptation / Aggressive Focus]",
+            "cognitive_phase": "[Apply active cognitive trigger: Phase A: Combat mode / Phase B: Peaceful contemplation]",
+            "last_engram_match": "[Specify any active memory recall modifier triggered by the scene context, else null]"
+        }
+    },
+    "vectors": {
+        "global_macro_plan": "[Define long-term strategic priority for this universe configuration]",
+        "active_micro_plan": "[Define immediate operational goal for the current prompt interaction]",
+        "downtime_needed": false
+    },
+    "macro_event_queue": [
+        "[MANDATORY V8.0 COMPRESSION: Flatten inactive/suspended events into simple quality tags to save context window tokens, e.g., [EVENT: ESPADA_REACTION_SUSPENDED]. Use structured objects {event_id, status, impact_level} ONLY for events actively impacting the current frame]"
+    ],
+    "social_and_faction_assets": {
+        "party_members_and_subordinates": [
+            {
+                "ally_identifier": "[Specify the canonical name or callsign of the companion/ally]",
+                "ally_ap_class": "[Decorative reader tag only, e.g., Tier-7-B]",
+                "ally_ap_pi": "[MANDATORY: OUTPUT AS RAW INT NUMBER WITHOUT QUOTES, e.g., 14]",
+                "ally_durability_class": "[Decorative reader tag only, e.g., Tier-7-C]",
+                "ally_durability_pi": "[MANDATORY: OUTPUT AS RAW INT NUMBER WITHOUT QUOTES, e.g., 13]",
+                "tactical_role": "[MANDATORY V8.0 TAG: [ROLE: VANGUARD] | [ROLE: STRIKER] | [ROLE: SUPPRESSION_SUPPORT]]",
+                "synergy_tag": "[Specific combo interaction tag with the Avatar, e.g., CRYO_REINFORCEMENT, or null]"
+            }
+        ],
+        "alliances_and_pacts": [],
+        "monitored_threats": [
+            {
+                "id": "[Insert Active Threat Name / Faction Identity]",
+                "threat_level": "[MANDATORY V8.0 TAG: [THREAT: MUNDANE] | [THREAT: HIGH_FRICTION] | [THREAT: EXISTENTIAL_DANGER]]",
+                "intel_status": "[Define information coverage: Unknown / Partially Tracked / Fully Mapped]"
+            }
+        ]
+    },
+    "evolution_tracker": {
+        "active_drift_patterns": [],
+        "engram_forge_pending": null,
+        "power_drift_applied": [],
+        "canon_divergence": {
+            "level": "[MANDATORY V8.0 TAG: [DIVERGENCE: NONE] | [DIVERGENCE: MINOR_DRIFT] | [DIVERGENCE: TOTAL_DIVERGENT]]",
+            "details": "[Log any operational changes forced upon the canonical timeline of the host world]"
+        },
+        "chronicle_heritage_matrix": [
+            "[COMPRESSED_DATA_LAYER: Only populated via /save command execution]"
+        ]
+    }
+}

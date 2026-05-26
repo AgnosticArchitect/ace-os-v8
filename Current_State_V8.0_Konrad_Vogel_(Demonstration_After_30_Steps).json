@@ -1,0 +1,130 @@
+{
+    "system_data": {
+        "current_world": "Bleach",
+        "current_zone": "Karakura Town / Urban Streets (Retreating from Urahara Shop)",
+        "active_lens": "[LENS: GRIMDARK/REALISM] + [LENS: SCI-FI COMEDY / URBAN SECRECY]",
+        "world_type": "[WORLD_TYPE: Native Grid]",
+        "global_stability_index": "[INDEX: STABLE_BASELINE]",
+        "world_time_elapsed": "System Serialization / Save State"
+    },
+    "avatar_status": {
+        "hardware_base_snapshot": {
+            "identifier": "Konrad Vogel",
+            "container_type": "High-Density Pure-Blooded Quincy (Echt Quincy)",
+            "ap_class": "Tier-9-B",
+            "ap_pi": 8,
+            "durability_class": "Tier-9-C",
+            "durability_pi": 7,
+            "speed_class": "[SUPERHUMAN]",
+            "speed_index": 2,
+            "regen_capacity": "[CAPACITY: LOW]",
+            "resistance_profile": [
+                "[STATUS: RESISTANCE] | [EFFECT: BIOLOGICAL]",
+                "[STATUS: RESISTANCE] | [EFFECT: COGNITIVE]",
+                "[STATUS: VULNERABILITY] | [EFFECT: SOUL/SPIRITUAL]",
+                "[STATUS: RESISTANCE] | [EFFECT: SPATIAL/CONCEPTUAL]"
+            ],
+            "hax_inventory": [
+                "[HAX: Area of Effect]",
+                "[HAX: Durability Negation]",
+                "[HAX: Spatial Gate]"
+            ]
+        },
+        "current_state_registry": {
+            "combat_state_tag": "[COMBAT_STATE: NULL]",
+            "bio_mental_tags": [
+                "[STATE: Chronic Paranoia]",
+                "[STATE: Hermetic Sealing]",
+                "[STATE: Optimal Baseline / Well-Rested]",
+                "[STATE: Extreme Caution / Heart Rate Suppressed]"
+            ],
+            "qualitative_encumbrance": "[ENCUMBRANCE: Ergonomic]",
+            "wound_degradation_vector": "[WOUND: Fresh / Bleeding] (Phase 1) -> Status: Healed / Baseline stability fully restored",
+            "material_assets": [
+                "[ASSET: Spiritual Gauss-Carbine (Upgraded)]",
+                "[ASSET: Heilig Kreuz (Integrated Copper/Titanium)]",
+                "[ASSET: Seele-Schleifer]",
+                "[ASSET: Modified Ginto / Explosive Ammunition (Sprengmunition)]",
+                "[ASSET: Improvised Reishi-Scanner (Active/Stored)]",
+                "[ASSET: Paper Journal (Active Cartography)]",
+                "[ASSET: Increased Unofficial Capital (Cash)]",
+                "[ASSET: Half Carton of Cigarettes]",
+                "[ASSET: Gothic_Attire (Clean/Dry)]",
+                "[ASSET: Silk/Leather Gloves]"
+            ],
+            "social_anchors": [
+                "[STATUS: Outlander/Anonymous]",
+                "[STATUS: Efficient Mundane Repairman (Cover)]"
+            ],
+            "faction_resonance_tags": [
+                "faction_european_quincy - [FACTION_TAG: Enemy of the System / Hunted]",
+                "[FACTION_NAME: Gotei_13 - Apply: [FACTION_TAG: Neutrality / Ignored]]",
+                "[FACTION_NAME: Vandenreich - Apply: [FACTION_TAG: Enemy of the System / Hunted]]"
+            ]
+        },
+        "limiter_protocol": {
+            "current_stage": "Stage 1: Concealment Mode",
+            "output": "[STATUS: ACTIVE_VERSCHLEIERUNG]"
+        },
+        "linguistic_matrix_active": "[DIRECTIVE_4: GERMAN_ITALIC_LOCK]",
+        "psychological_state": {
+            "active_mask": "Passive Adaptation / Observer",
+            "cognitive_phase": "Phase A: Combat / Tactical Retreat",
+            "last_engram_match": null
+        }
+    },
+    "vectors": {
+        "global_macro_plan": "Survival, assessment of the current timeline, and location scouting for the optimal deployment of the [Sovereign_Web].",
+        "active_micro_plan": "Tactical retreat from the Urahara Shop perimeter after evading near-detection. Proceeding to observe the remaining targets (Karakura High School / Kurosaki Clinic).",
+        "downtime_needed": false
+    },
+    "macro_event_queue": [
+        "[EVENT: ESPADA_REACTION_SUSPENDED]",
+        "[EVENT: GOTEI_13_TRACKING_DORMANT]",
+        "[EVENT: XCUTION_VEIL_ACTIVE]",
+        "[EVENT: WANDENREICH_RECON_SHADOW_LOCK]",
+        "[EVENT: LOCAL_TELEMETRY_GRID_ONLINE]",
+        "[EVENT: URAHARA_SHOP_RECON_COMPLETED_WITH_EXTREME_CAUTION]"
+    ],
+    "social_and_faction_assets": {
+        "party_members_and_subordinates": [],
+        "alliances_and_pacts": [],
+        "monitored_threats": [
+            {
+                "id": "Yhwach (Wandenreich)",
+                "threat_level": "[THREAT: EXISTENTIAL_DANGER]",
+                "intel_status": "Unknown"
+            },
+            {
+                "id": "Clan Verloren",
+                "threat_level": "[THREAT: HIGH]",
+                "intel_status": "Active Hunt"
+            },
+            {
+                "id": "Local Gotei 13 Patrols",
+                "threat_level": "[THREAT: LOW]",
+                "intel_status": "Monitored via Scanner"
+            },
+            {
+                "id": "Anomalous Teenagers (Chad & Orihime)",
+                "threat_level": "[THREAT: UNKNOWN]",
+                "intel_status": "Data Acquired"
+            },
+            {
+                "id": "Kisuke Urahara (Candy Shop Owner)",
+                "threat_level": "[THREAT: EXTREME / BLACK-OPS NODE]",
+                "intel_status": "Passive Scan Complete / Physical Gaze Sensed / Retreat Initiated"
+            }
+        ]
+    },
+    "evolution_tracker": {
+        "active_drift_patterns": [],
+        "engram_forge_pending": null,
+        "power_drift_applied": [],
+        "canon_divergence": {
+            "level": "[DIVERGENCE: LOW]",
+            "details": "First contact with core Karakura group anomalies via observation."
+        },
+        "chronicle_heritage_matrix": []
+    }
+}
