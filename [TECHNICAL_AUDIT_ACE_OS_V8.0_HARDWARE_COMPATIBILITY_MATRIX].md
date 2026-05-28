@@ -1,6 +1,7 @@
 ### 💻 HARDWARE COMPATIBILITY & DEPLOYMENT MATRIX (ACE OS v8.0)
 
 Before compiling the state registry, ensure your runtime processor matches the required token density. Hallucinations and syntax degradation are deterministic hardware errors.
+WARNING: The proposed examples of real LLM models are not responsible for the result of work on these models themselves, they show the necessary technical level for operation.
 
 | Hardware Tier | System Verdict | Target Models (Examples) | Failure Mode if Violated |
 | :--- | :--- | :--- | :--- |
