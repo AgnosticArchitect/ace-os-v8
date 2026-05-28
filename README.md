@@ -49,17 +49,13 @@ An enterprise-grade implementation tracking the deployment of an original Echt Q
 
 ---
 
-## 💻 3. Hardware Compatibility Matrix
-
-Ensure your deployment node meets the required parameter density. Processing text-based software frameworks on sub-optimal hardware leads to deterministic token degradation and language model hallucinations.
-
 | Hardware Tier | System Verdict | Target Models (Examples) | Failure Mode if Violated |
 | :--- | :--- | :--- | :--- |
-| **Cloud APIs** | 👑 ULTIMATE TARGET | Google Gemini 1.5 Pro, Claude 3.5 Sonnet, GPT-4o | None. Flawless Prose Lock and maximum context caching efficiency. |
-| **Enterprise (≥70B)** | 🟢 ABSOLUTE STABLE | Llama-3.3-70B, Qwen-2.5-72B, DeepSeek-R1 (Full MoE) | Pristine logic parsing. Requires high-VRAM local compute hosting nodes. |
-| **Enthusiast (32B-70B)**| 🟢 FULLY COMPATIBLE| Qwen-2.5-32B, Command R+ (104B), Mixtral 8x7B | Stable operation. Requires dynamic hot-swapping every 25-30 steps. |
-| **Transition (16B-32B)**| 🟡 PARTIAL ONLY | Google Gemma-2-27B, DeepSeek-R1-Distill-32B| Syntactic drift occurs by step 10. Only suitable for basic unit testing. |
-| **Lightweight (8B-16B)**| 🔴 NOT RECOMMENDED| Llama-3-8B, Gemma-2-9B | Complete execution failure. Instant logic decay and JSON breakdown. |
+| **Cloud APIs** | 👑 ULTIMATE TARGET | Google Gemini 3.1 Pro, Claude Opus 4.7, GPT-5.5 | None. Flawless Prose Lock and maximum context caching efficiency. |
+| **Enterprise (≥70B)** | 🟢 ABSOLUTE STABLE | Mistral Large 3 (675B), Qwen3-235B-A22B, Llama 4 Maverick | Pristine logic parsing. Requires high-VRAM local compute hosting nodes. |
+| **Enthusiast (32B-70B)**| 🟢 FULLY COMPATIBLE| Gemma 4 31B, Qwen3-32B, Llama 4 Scout (109B MoE) | Stable operation. Requires dynamic hot-swapping every 25-30 steps. |
+| **Transition (16B-32B)**| 🟡 PARTIAL ONLY | Gemma 4 26B MoE, Qwen3-14B | Syntactic drift occurs by step 10. Only suitable for basic unit testing. |
+| **Lightweight (8B-16B)**| 🔴 NOT RECOMMENDED| Qwen3-8B, Llama 3.1 8B | Complete execution failure. Instant logic decay and JSON breakdown. |
 
 ---
 
