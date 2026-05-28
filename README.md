@@ -48,6 +48,9 @@ An enterprise-grade implementation tracking the deployment of an original Echt Q
 * **`Current_State_V8.0_Konrad_Vogel_(Demonstration_After_30_Steps).json`** — Verified production save-state capturing system variables after 30 active execution turns.
 
 ---
+## 💻 3. Hardware Compatibility Matrix
+
+Ensure your deployment node meets the required parameter density. Processing text-based software frameworks on sub-optimal hardware leads to deterministic token degradation and language model hallucinations.
 
 | Hardware Tier | System Verdict | Target Models (Examples) | Failure Mode if Violated |
 | :--- | :--- | :--- | :--- |
