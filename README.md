@@ -51,6 +51,7 @@ An enterprise-grade implementation tracking the deployment of an original Echt Q
 ## 💻 3. Hardware Compatibility Matrix
 
 Ensure your deployment node meets the required parameter density. Processing text-based software frameworks on sub-optimal hardware leads to deterministic token degradation and language model hallucinations.
+WARNING: The proposed examples of real LLM models are not responsible for the result of work on these models themselves, they show the necessary technical level for operation.
 
 | Hardware Tier | System Verdict | Target Models (Examples) | Failure Mode if Violated |
 | :--- | :--- | :--- | :--- |
